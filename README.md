@@ -1,0 +1,2 @@
+# premium-lintel-001-stone-lintel-load-bearing-guid
+Struggling to calculate stone lintel load capacity without expensive engineering consultations? The Stone Lintel Load Bearing Guide eliminates guesswork by centralizing all your lintel calculations, specifications, and safety checks in one organized Notion workspace.  This template transforms how you approach lintel setting by combining load-bearin
